@@ -1,6 +1,5 @@
-## Those functions have the porpuse of calculate the inverse of
-## a matrix and chche the result to avoid recalculation
-## 
+## These functions are intended to calculate the inverse of a matrix and to cache 
+## the result to avoid reprocessing
 
 ## This function saves the provided matrix into the cache and returns a list 
 ## of functions to save and load the matrix and its inverse from the cache
